@@ -1,0 +1,3 @@
+This Java program showcases the elegance of the Composite design pattern in crafting dynamic organizational structures. 
+It intricately weaves together Department and Employee components to form a flexible hierarchy. 
+Users can effortlessly create and organize departments, teams, and employees, assigning roles and building out their organizational chart. With its intuitive showDetails method, the program elegantly presents the complete structure, highlighting the power of the Composite pattern in managing complex and evolving hierarchies with ease.

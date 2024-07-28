@@ -1,0 +1,4 @@
+This Java program demonstrates the Template Method design pattern to streamline the order processing system. 
+It features an abstract OrderProcessor class that defines a template method processOrder, ensuring a consistent sequence of steps: validating the order, collecting customer details, calculating the total, preparing shipping, and delivering the order. 
+Concrete classes PhysicalGoodsOrder, DigitalGoodsOrder, and SubscriptionOrder extend OrderProcessor, each implementing the unique specifics of their respective order types. 
+Users simply select the order type and provide details, showcasing the Template Method pattern's flexibility and efficiency in creating a robust, customizable order processing experience. This approach highlights the pattern's ability to handle diverse processes dynamically, making the system both practical and sophisticated.

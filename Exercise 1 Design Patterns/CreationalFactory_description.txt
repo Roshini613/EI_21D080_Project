@@ -1,0 +1,5 @@
+This Java program demonstrates the Factory Method design pattern to manage electronic components dynamically. 
+It features an ElectronicComponent interface with implementations for Resistor, Capacitor, and Transistor, each encapsulating specific properties and behaviors. 
+Abstract and concrete factory classes are used to instantiate these components. 
+The ComponentManagementService class uses these factories, providing a user-friendly experience where users select a component type and input specific values, leading to the dynamic creation and management of the component. 
+This approach showcases the Factory Method pattern's flexibility in efficiently handling diverse objects, making the code both practical and sophisticated.

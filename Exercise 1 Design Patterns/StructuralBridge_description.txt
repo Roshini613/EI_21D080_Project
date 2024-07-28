@@ -1,0 +1,4 @@
+This Java program showcases the sleek Bridge design pattern in action, elegantly uniting payment methods with transaction types for a seamless experience. 
+By choosing between CreditCard and PayPal, users can effortlessly initiate either a Purchase or Refund transaction. 
+The program dynamically handles these transactions, presenting a refined and intuitive interface for managing payments. 
+This design not only enhances flexibility but also exemplifies how the Bridge pattern can simplify complex interactions, making the process both efficient and user-friendly.
